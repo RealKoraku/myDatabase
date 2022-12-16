@@ -1,0 +1,15 @@
+C:\Users\MCA\source\repos\FileIO\321Contact\bin\Debug\net6.0\321Contact.exe
+C:\Users\MCA\source\repos\FileIO\321Contact\bin\Debug\net6.0\321Contact.deps.json
+C:\Users\MCA\source\repos\FileIO\321Contact\bin\Debug\net6.0\321Contact.runtimeconfig.json
+C:\Users\MCA\source\repos\FileIO\321Contact\bin\Debug\net6.0\321Contact.dll
+C:\Users\MCA\source\repos\FileIO\321Contact\bin\Debug\net6.0\321Contact.pdb
+C:\Users\MCA\source\repos\FileIO\321Contact\obj\Debug\net6.0\321Contact.csproj.AssemblyReference.cache
+C:\Users\MCA\source\repos\FileIO\321Contact\obj\Debug\net6.0\321Contact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA\source\repos\FileIO\321Contact\obj\Debug\net6.0\321Contact.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\FileIO\321Contact\obj\Debug\net6.0\321Contact.AssemblyInfo.cs
+C:\Users\MCA\source\repos\FileIO\321Contact\obj\Debug\net6.0\321Contact.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\FileIO\321Contact\obj\Debug\net6.0\321Contact.dll
+C:\Users\MCA\source\repos\FileIO\321Contact\obj\Debug\net6.0\refint\321Contact.dll
+C:\Users\MCA\source\repos\FileIO\321Contact\obj\Debug\net6.0\321Contact.pdb
+C:\Users\MCA\source\repos\FileIO\321Contact\obj\Debug\net6.0\321Contact.genruntimeconfig.cache
+C:\Users\MCA\source\repos\FileIO\321Contact\obj\Debug\net6.0\ref\321Contact.dll
